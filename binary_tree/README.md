@@ -1,1 +1,1 @@
-Implementation of a binary tree using a Python programming language.
+Implementation of a binary tree using the Python programming language.
