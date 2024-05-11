@@ -1,1 +1,1 @@
-Implementation of a hash table using the Python programming language.
+Implementation of the hash table using the Python programming language.
