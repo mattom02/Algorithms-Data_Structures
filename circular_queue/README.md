@@ -1,1 +1,1 @@
-Implementation of a circular queue using a Python programming language.
+Implementation of a circular queue using the Python programming language.
