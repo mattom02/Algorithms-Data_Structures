@@ -1,1 +1,1 @@
-Implementation of a Shell sort using the Python programming language.
+Implementation of the Shell sort using the Python programming language.

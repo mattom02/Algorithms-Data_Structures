@@ -133,7 +133,7 @@ class Graph:
             sum += self.__list[i[0]][Vertex('t')]._flow
         return sum
     
-    def printGraph(self):
+    def printGraph(self) -> None:
         print("------GRAPH------")
         for v in self.vertices():
             print(v, end = " -> ")
